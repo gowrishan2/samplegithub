@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-creating test1.txt file
-=======
-changing the test.txt file
-
->>>>>>> 9dc1a1ff016cdac86068a50df377fc454f98bd9b
+now changed
